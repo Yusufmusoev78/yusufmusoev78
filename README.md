@@ -102,7 +102,7 @@ Build powerful backends that make great products possible.
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/museov__mm">
+<a href="https://instagram.com/musoev__mm">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
