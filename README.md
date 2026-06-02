@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0a0a,50:1a1a2e,100:16213e&text=Yusuf%20Musoev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20Django%20•%20Linux&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,50:764ba2,100:f093fb&text=Yusuf%20Musoev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20Django%20•%20Linux&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Backend+Developer+from+Tajikistan+%F0%9F%87%B9%F0%9F%87%AF;Python+%2B+Django+%2B+Django+REST+Framework;Docker+%7C+PostgreSQL+%7C+Redis+%7C+Nginx;Linux+Power+User+%F0%9F%90%A7;Building+Scalable+and+Clean+APIs+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=900&lines=Backend+Developer+from+Tajikistan+%F0%9F%87%B9%F0%9F%87%AF;Python+%2B+Django+%2B+FastAPI+%2B+DRF;Docker+%7C+PostgreSQL+%7C+Redis+%7C+Nginx;Linux+Power+User+%F0%9F%90%A7;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+Scalable+and+Clean+APIs+%F0%9F%9A%80"/>
 
 </div>
 
@@ -10,14 +10,14 @@
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ### 👨‍💻 Who Am I?
 
 🚀 Passionate **Backend Developer** focused on building robust, scalable, and clean server-side applications and APIs.
 
 🔧 I enjoy creating:
-- RESTful APIs with Django REST Framework
+- RESTful APIs with Django REST Framework & FastAPI
 - Clean and maintainable backend architectures
 - Containerized apps with Docker
 - Secure and efficient server logic
@@ -27,12 +27,15 @@
 
 🐧 I use **Linux** as my daily driver — it's where real backend work happens.
 
+🔐 Interested in **Cybersecurity** — secure by design.
+
 💡 Currently improving my skills in:
-- Python & Django & DRF
+- Django MVT, DRF, FastAPI
 - Docker & containerization
-- PostgreSQL & Redis
-- Nginx & server configuration
-- C++ & systems programming
+- PostgreSQL, Redis, SQL
+- Nginx, Gunicorn, Daphne
+- Golang & C++
+- Cybersecurity fundamentals
 
 ⚡ Goal:
 Build powerful backends that make great products possible.
@@ -43,19 +46,25 @@ Build powerful backends that make great products possible.
 
 ## 🧩 Technologies I Use
 
-### 🐍 Backend
+### 🐍 Backend & Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Django_MVT-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases & Cache
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
@@ -64,7 +73,16 @@ Build powerful backends that make great products possible.
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Daphne-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🔐 Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend Basics
@@ -80,7 +98,7 @@ Build powerful backends that make great products possible.
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
@@ -90,13 +108,13 @@ Build powerful backends that make great products possible.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufmusoev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufmusoev78&show_icons=true&theme=radical&hide_border=true&border_radius=20&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufmusoev&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufmusoev78&layout=compact&theme=radical&hide_border=true&border_radius=20&cache_seconds=86400"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yusufmusoev&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yusufmusoev78&theme=redical&hide_border=true&area=true"/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=yusufmusoev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=yusufmusoev78&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -124,8 +142,8 @@ Build powerful backends that make great products possible.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yusufmusoev">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/yusufmusoev78">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:your@gmail.com">
@@ -142,7 +160,7 @@ Build powerful backends that make great products possible.
 
 > *"First, solve the problem. Then, write the code."*
 
-<img src="https://komarev.com/ghpvc/?username=yusufmusoev&label=Profile%20Views&color=00FFD1&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=yusufmusoev78&label=Profile%20Views&color=764ba2&style=for-the-badge"/>
 
 </div>
 
@@ -150,8 +168,8 @@ Build powerful backends that make great products possible.
 
 <div align="center">
 
-### 💚 Thanks for visiting my profile
+### 💜 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0a,50:1a1a2e,100:16213e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:667eea,50:764ba2,100:f093fb"/>
 
 </div>
