@@ -110,7 +110,7 @@ Build powerful backends that make great products possible.
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your@gmail.com">
+<a href="mailto:yusufmusoev78@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
