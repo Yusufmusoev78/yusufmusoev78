@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Yusuf%20Museov&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20Django&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0a0a,50:1a1a2e,100:16213e&text=Yusuf%20Musoev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20Django%20•%20Linux&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Backend+Developer+from+Tajikistan+%F0%9F%87%B9%F0%9F%87%AF;Python+%2B+Django+%2B+Django+REST+Framework;Building+Robust+and+Scalable+APIs;Clean+Architecture+%7C+Solid+Code;Open+for+Opportunities+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Backend+Developer+from+Tajikistan+%F0%9F%87%B9%F0%9F%87%AF;Python+%2B+Django+%2B+Django+REST+Framework;Docker+%7C+PostgreSQL+%7C+Redis+%7C+Nginx;Linux+Power+User+%F0%9F%90%A7;Building+Scalable+and+Clean+APIs+%F0%9F%9A%80"/>
 
 </div>
 
@@ -18,19 +18,21 @@
 
 🔧 I enjoy creating:
 - RESTful APIs with Django REST Framework
-- Clean backend architectures
+- Clean and maintainable backend architectures
+- Containerized apps with Docker
 - Secure and efficient server logic
-- Scalable database models
-- Well-documented endpoints
+- Scalable database models with PostgreSQL
 
 🌍 Based in **Dushanbe, Tajikistan 🇹🇯**
 
+🐧 I use **Linux** as my daily driver — it's where real backend work happens.
+
 💡 Currently improving my skills in:
-- Python & Django
-- Django REST Framework
-- API design & best practices
-- Git & version control
-- Database design
+- Python & Django & DRF
+- Docker & containerization
+- PostgreSQL & Redis
+- Nginx & server configuration
+- C++ & systems programming
 
 ⚡ Goal:
 Build powerful backends that make great products possible.
@@ -39,14 +41,30 @@ Build powerful backends that make great products possible.
 
 ---
 
-## 🧩 Technologies I Use and Learn
+## 🧩 Technologies I Use
 
 ### 🐍 Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=red"/>
+  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=red"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cache
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ### 🌐 Frontend Basics
@@ -72,13 +90,13 @@ Build powerful backends that make great products possible.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufmuseov&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufmusoev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufmuseov&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufmusoev&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yusufmuseov&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yusufmusoev&theme=tokyo-night&hide_border=true&area=true"/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=yusufmuseov&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=yusufmusoev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -98,7 +116,7 @@ Build powerful backends that make great products possible.
 
 <div align="center">
 
-<a href="https://t.me/yusufmuseov">
+<a href="https://t.me/yusufmusoev">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -106,11 +124,11 @@ Build powerful backends that make great products possible.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yusufmuseov">
+<a href="https://github.com/yusufmusoev">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:yusufmusoev78@gmail.com">
+<a href="mailto:your@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -124,7 +142,7 @@ Build powerful backends that make great products possible.
 
 > *"First, solve the problem. Then, write the code."*
 
-<img src="https://komarev.com/ghpvc/?username=yusufmuseov&label=Profile%20Views&color=00C9A7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=yusufmusoev&label=Profile%20Views&color=00FFD1&style=for-the-badge"/>
 
 </div>
 
@@ -134,6 +152,6 @@ Build powerful backends that make great products possible.
 
 ### 💚 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0a,50:1a1a2e,100:16213e"/>
 
 </div>
